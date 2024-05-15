@@ -1,0 +1,12 @@
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\bin\Debug\net6.0\ServrsLibrary.deps.json
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\bin\Debug\net6.0\ServrsLibrary.dll
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\bin\Debug\net6.0\ServrsLibrary.pdb
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.csproj.AssemblyReference.cache
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.AssemblyInfoInputs.cache
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.AssemblyInfo.cs
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.dll
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\refint\ServrsLibrary.dll
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ServrsLibrary.pdb
+C:\Users\lesnovaa\source\repos\SinglotenPattern\ServrsLibrary\obj\Debug\net6.0\ref\ServrsLibrary.dll
